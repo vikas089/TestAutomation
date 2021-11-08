@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b21db20a-56e3-4ff7-bb55-7af87d56cb6c" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="1zBH4RZJeMLVkygUy0guFzE7LER" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/testng/Demo/AbuDhabiPolice" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Demo_Automation\TestAutomation\testng\Demo\AbuDhabiPolice" />
+      <recent name="C:\Demo_Automation\TestAutomation\testng\Demo" />
+      <recent name="C:\Demo_Automation\TestAutomation\src\main\java\demo\properties\demo\uat" />
+      <recent name="C:\IdeaWorkSpace\NLTestAutomation\src\main\java\nl\properties" />
+      <recent name="C:\IdeaWorkSpace\NLTestAutomation\src\main\java\nl\properties\nlAdmin" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Demo_Automation\TestAutomation\testng\Demo\AbuDhabiPolice" />
+      <recent name="C:\Demo_Automation\TestAutomation\testng\Demo" />
+      <recent name="C:\Demo_Automation\TestAutomation\testng\Demo\SerchAdp" />
+      <recent name="C:\IdeaWorkSpace\NLTestAutomation\src\main\java\nl\properties\nl\uat" />
+      <recent name="C:\IdeaWorkSpace\NLTestAutomation\src\main\java\nl\utils\readEmail" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="demo.framework.context" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Demo_Automation/TestAutomation/testng/Demo/AbuDhabiPolice/AbuDhabiPolice.xml (1)">
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Demo_Automation/TestAutomation/testng/Demo/AbuDhabiPolice/AbuDhabiPolice.xml (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="NLTestAutomation" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng/Demo/AbuDhabiPolice/AbuDhabiPolice.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Demo_Automation/TestAutomation/testng/Demo/AbuDhabiPolice/Regresion.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="NLTestAutomation" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng/Demo/AbuDhabiPolice/Regresion.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Demo_Automation/TestAutomation/testng/Demo/AbuDhabiPolice/Regression.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="NLTestAutomation" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng/Demo/AbuDhabiPolice/Regression.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Demo_Automation/TestAutomation/testng/Demo/AbuDhabiPolice/SearchAdp.xml (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="NLTestAutomation" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng/Demo/AbuDhabiPolice/SearchAdp.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Demo_Automation/TestAutomation/testng/Demo/Regression.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="NLTestAutomation" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng/Demo/Regression.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Demo_Automation/TestAutomation/testng/Demo/AbuDhabiPolice/AbuDhabiPolice.xml (1)" />
+        <item itemvalue="TestNG.C:/Demo_Automation/TestAutomation/testng/Demo/AbuDhabiPolice/Regresion.xml" />
+        <item itemvalue="TestNG.C:/Demo_Automation/TestAutomation/testng/Demo/AbuDhabiPolice/Regression.xml" />
+        <item itemvalue="TestNG.C:/Demo_Automation/TestAutomation/testng/Demo/Regression.xml" />
+        <item itemvalue="TestNG.C:/Demo_Automation/TestAutomation/testng/Demo/AbuDhabiPolice/SearchAdp.xml (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b21db20a-56e3-4ff7-bb55-7af87d56cb6c" name="Changes" comment="" />
+      <created>1633614370619</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633614370619</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/demo/framework/pages/HomePage.java</url>
+          <line>84</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TestAutomation$C__Demo_Automation_TestAutomation_testng_Demo_AbuDhabiPolice_SearchAdp_xml.ic" NAME="$PROJECT_DIR$/testng/Demo/AbuDhabiPolice/SearchAdp.xml Coverage Results" MODIFIED="1636309190413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/TestAutomation$C__Demo_Automation_TestAutomation_testng_Demo_Regression_xml.ic" NAME="$PROJECT_DIR$/testng/Demo/Regression.xml Coverage Results" MODIFIED="1636314457043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/TestAutomation$C__Demo_Automation_TestAutomation_testng_Demo_AbuDhabiPolice_AbuDhabiPolice_xml.ic" NAME="$PROJECT_DIR$/testng/Demo/AbuDhabiPolice/AbuDhabiPolice.xml Coverage Results" MODIFIED="1636225649701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

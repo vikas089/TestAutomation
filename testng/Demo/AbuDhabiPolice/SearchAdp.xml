@@ -1,0 +1,21 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite thread-count="1" verbose="1" name="Abu Dhabi Govt Entities"  parallel="tests">
+    <parameter name="env" value="UAT"/>
+    <listeners>
+        <listener class-name="demo.utils.reports.TestListener" />
+    </listeners>
+
+    <test name="ADP serch in Abu Dhabi Govt Entities Secnario ">
+        <classes>
+            <class name="demo.tests.demoTest.AdpSearch">
+                <methods>
+                    <include name="serchADP" />
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+
+</suite>
+
